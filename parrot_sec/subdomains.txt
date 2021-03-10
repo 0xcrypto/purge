@@ -1,0 +1,17 @@
+internal.parrot.sh
+services.parrot.sh
+udu.parrot.sh
+udupalermo.parrot.sh
+unipa.parrot.sh
+o.cdn.parrot.sh
+gibson.infra.parrot.sh
+mirror.parrot.sh
+cdn.parrot.sh
+vietnam.deb.parrot.sh
+any.parrot.sh
+infra.parrot.sh
+d.cdn.parrot.sh
+a.cdn.parrot.sh
+geo.parrot.sh
+deb.parrot.sh
+l.cdn.parrot.sh

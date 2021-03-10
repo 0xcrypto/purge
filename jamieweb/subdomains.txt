@@ -1,0 +1,10 @@
+bitcoin.jamieweb.net
+irc.jamieweb.net
+ipv4.jamieweb.net
+www.jamieweb.net
+acme-validation.jamieweb.net
+nyc01.jamieweb.net
+status.jamieweb.net
+ldn01.jamieweb.net
+mta-sts.jamieweb.net
+ipv6.jamieweb.net

@@ -1,0 +1,5 @@
+www.eslint.org
+jenkins.eslint.org
+cn.eslint.org
+eslint-github-bot.eslint.org
+github-bot.eslint.org

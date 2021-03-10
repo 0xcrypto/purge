@@ -1,0 +1,10 @@
+s3.bitdiscovery.com
+staging2.bitdiscovery.com
+dev.bitdiscovery.com
+blog.bitdiscovery.com
+www.bitdiscovery.com
+synopsys.bitdiscovery.com
+staging.bitdiscovery.com
+tenable.bitdiscovery.com
+ibm.bitdiscovery.com
+docs.bitdiscovery.com

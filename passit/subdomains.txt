@@ -1,0 +1,5 @@
+api.staging.passit.io
+app.passit.io
+demo.passit.io
+staging.passit.io
+piwik.passit.io

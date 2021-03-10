@@ -1,0 +1,14 @@
+www.eobot.com
+mail.eobot.com
+status.eobot.com
+scrypt.eobot.com
+email.eobot.com
+e.eobot.com
+x11.eobot.com
+pop.eobot.com
+pool.eobot.com
+pda.eobot.com
+webmail.eobot.com
+sha.eobot.com
+mobilemail.eobot.com
+smtp.eobot.com

@@ -1,0 +1,9 @@
+m.observu.com
+test.observu.com
+www.m.observu.com
+www.test.observu.com
+www.observu.com
+do-lnd-checker-1.servers.observu.com
+do-ams-checker-1.servers.observu.com
+do-nyc-checker-1.servers.observu.com
+blog.observu.com
