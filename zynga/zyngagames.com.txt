@@ -1,0 +1,3 @@
+www.zyngagames.com
+alpha.zyngagames.com
+staging.zyngagames.com

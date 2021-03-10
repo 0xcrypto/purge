@@ -1,0 +1,9 @@
+auth.certsy.com
+api-prod.certsy.com
+help.certsy.com
+docs.certsy.com
+status.certsy.com
+admin-ui-prod.certsy.com
+hirer.certsy.com
+candidate-ui-prod.certsy.com
+www.certsy.com

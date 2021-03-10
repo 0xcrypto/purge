@@ -1,0 +1,2 @@
+www.spotify.dev
+status.spotify.dev

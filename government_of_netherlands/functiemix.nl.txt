@@ -1,0 +1,11 @@
+english.functiemix.nl
+feeds.english.functiemix.nl
+magazines.english.functiemix.nl
+magazines.functiemix.nl
+magazinesintern.functiemix.nl
+opendata.english.functiemix.nl
+www.functiemix.nl
+a-www.functiemix.nl
+database.functiemix.nl
+feeds.functiemix.nl
+opendata.functiemix.nl

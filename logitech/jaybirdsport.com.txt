@@ -1,0 +1,13 @@
+secure.jaybirdsport.com
+shop.jaybirdsport.com
+www.api.jaybirdsport.com
+www.jaybirdsport.com
+www.secure.jaybirdsport.com
+buy.jaybirdsport.com
+dev.jaybirdsport.com
+email.jaybirdsport.com
+api.jaybirdsport.com
+reign.jaybirdsport.com
+resource.jaybirdsport.com
+ftp.jaybirdsport.com
+support.jaybirdsport.com

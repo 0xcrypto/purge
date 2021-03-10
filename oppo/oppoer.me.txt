@@ -1,0 +1,8 @@
+doc.oppoer.me
+rabbitmq.opay.oppoer.me
+i.sso.basic.oppoer.me
+sdl-codescan.sec.oppoer.me
+cloud.oppoer.me
+sso.basic.oppoer.me
+payadmin.oppoer.me
+www.oppoer.me

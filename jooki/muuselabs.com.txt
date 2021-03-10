@@ -1,0 +1,4 @@
+s3.muuselabs.com
+mender.muuselabs.com
+mender2.muuselabs.com
+m2s3.muuselabs.com

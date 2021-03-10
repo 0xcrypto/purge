@@ -1,0 +1,2 @@
+www.qiwi.me
+api.qiwi.me

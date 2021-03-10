@@ -1,0 +1,5 @@
+build-dev.genasys.tech
+staging.genasys.tech
+portal.genasys.tech
+build.genasys.tech
+build-test.genasys.tech

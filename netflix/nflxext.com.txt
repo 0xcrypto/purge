@@ -1,0 +1,8 @@
+assets-sha1.nflxext.com
+cdn1.nflxext.com
+ncds.nflxext.com
+www.nflxext.com
+ncds-sha1.nflxext.com
+assets.nflxext.com
+codex.nflxext.com
+ncds.test.nflxext.com

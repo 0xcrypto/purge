@@ -1,0 +1,13 @@
+app.mona.co
+de.mona.co
+help.mona.co
+sentry.mona.co
+slack.mona.co
+www.mona.co
+get.mona.co
+black.mona.co
+download.mona.co
+data.mona.co
+st.mona.co
+x.mona.co
+get-test.mona.co

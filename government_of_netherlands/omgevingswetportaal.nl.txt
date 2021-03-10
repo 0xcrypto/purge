@@ -1,0 +1,10 @@
+a-www.omgevingswetportaal.nl
+english.omgevingswetportaal.nl
+feeds.english.omgevingswetportaal.nl
+magazines.english.omgevingswetportaal.nl
+magazines.omgevingswetportaal.nl
+magazinesintern.omgevingswetportaal.nl
+opendata.english.omgevingswetportaal.nl
+www.omgevingswetportaal.nl
+opendata.omgevingswetportaal.nl
+feeds.omgevingswetportaal.nl

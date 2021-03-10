@@ -1,0 +1,7 @@
+assets.scan.me
+email-delivery.scan.me
+get.scan.me
+images.scan.me
+o1.email-delivery.scan.me
+www.scan.me
+mail.scan.me

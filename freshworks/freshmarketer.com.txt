@@ -1,0 +1,11 @@
+fbsocialdeals.freshmarketer.com
+ip.freshmarketer.com
+app.freshmarketer.com
+www.freshmarketer.com
+cdn.freshmarketer.com
+status.freshmarketer.com
+changelog.freshmarketer.com
+toolbar.freshmarketer.com
+support.freshmarketer.com
+blog.freshmarketer.com
+extension.freshmarketer.com

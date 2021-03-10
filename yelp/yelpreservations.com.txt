@@ -1,0 +1,14 @@
+api.devc.yelpreservations.com
+demos.yelpreservations.com
+devc.yelpreservations.com
+ops.yelpreservations.com
+paasta.yelpreservations.com
+www.devc.yelpreservations.com
+get.yelpreservations.com
+www.yelpreservations.com
+info.yelpreservations.com
+api.yelpreservations.com
+www.staging.yelpreservations.com
+api.staging.yelpreservations.com
+staging.yelpreservations.com
+static.yelpreservations.com

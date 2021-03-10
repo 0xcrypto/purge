@@ -1,0 +1,17 @@
+dev.archive.astaro.net
+dns-archive-dev.astaro.net
+dns-archive-eu.astaro.net
+dns-archive-us.astaro.net
+dns-archive2-dev.astaro.net
+dns-archive2-eu.astaro.net
+dns-archive2-us.astaro.net
+eu.archive.astaro.net
+eu.logmgmt.astaro.net
+minimaskin.astaro.net
+mx.archive.astaro.net
+pt.astaro.net
+us.archive.astaro.net
+testcase.astaro.net
+testcase3.astaro.net
+testcase2.astaro.net
+www.astaro.net

@@ -1,0 +1,13 @@
+dev-moodle.twitterflightschool.com
+dev.twitterflightschool.com
+learning-locker.twitterflightschool.com
+moodle.twitterflightschool.com
+origin.twitterflightschool.com
+static.twitterflightschool.com
+stg-moodle.twitterflightschool.com
+stg.twitterflightschool.com
+publicis.twitterflightschool.com
+ipg.twitterflightschool.com
+www.twitterflightschool.com
+microsoft.twitterflightschool.com
+havas.twitterflightschool.com

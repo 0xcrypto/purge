@@ -1,0 +1,4 @@
+cdn.localizestaging.com
+api.localizestaging.com
+assets.localizestaging.com
+www.localizestaging.com

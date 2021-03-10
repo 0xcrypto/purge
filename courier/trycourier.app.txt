@@ -1,0 +1,3 @@
+staging.trycourier.app
+www.trycourier.app
+api.trycourier.app

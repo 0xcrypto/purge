@@ -1,0 +1,4 @@
+mail.logitech.com.cn
+support.logitech.com.cn
+www.logitech.com.cn
+store.logitech.com.cn

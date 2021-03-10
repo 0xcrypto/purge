@@ -1,0 +1,8 @@
+decibel.logitechmusic.com
+config.logitechmusic.com
+lb02.eu-w1.logitechmusic.com
+dns.us-w2.logitechmusic.com
+dns.eu-w1.logitechmusic.com
+dns.us-e1.logitechmusic.com
+www.logitechmusic.com
+mh.logitechmusic.com

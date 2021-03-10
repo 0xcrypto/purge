@@ -1,0 +1,10 @@
+a-www.planetarysecurity.nl
+english.planetarysecurity.nl
+feeds.english.planetarysecurity.nl
+feeds.planetarysecurity.nl
+magazines.english.planetarysecurity.nl
+magazines.planetarysecurity.nl
+magazinesintern.planetarysecurity.nl
+opendata.english.planetarysecurity.nl
+opendata.planetarysecurity.nl
+www.planetarysecurity.nl

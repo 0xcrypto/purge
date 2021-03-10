@@ -1,0 +1,8 @@
+lithium.mediamarkt.pt
+link.mediamarkt.pt
+specials.mediamarkt.pt
+dev.mediamarkt.pt
+www.mediamarkt.pt
+prelive.mediamarkt.pt
+qa.mediamarkt.pt
+notifications.mediamarkt.pt

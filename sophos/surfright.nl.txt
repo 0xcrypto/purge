@@ -1,0 +1,13 @@
+webmail.surfright.nl
+www.webmail.surfright.nl
+mail.surfright.nl
+ftp.surfright.nl
+autodiscover.surfright.nl
+cloud.surfright.nl
+files.surfright.nl
+cleverbridge.surfright.nl
+www.surfright.nl
+resellers.surfright.nl
+lyncdiscover.surfright.nl
+dl.surfright.nl
+localhost.surfright.nl

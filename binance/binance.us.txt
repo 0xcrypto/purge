@@ -1,0 +1,10 @@
+pm-bounces.post.binance.us
+resource.binance.us
+static.binance.us
+preprod.binance.us
+www.binance.us
+otc.binance.us
+api.binance.us
+accounts.binance.us
+stream.binance.us
+support.binance.us

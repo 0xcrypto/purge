@@ -1,0 +1,17 @@
+archive.opentech.fund
+docs.opentech.fund
+gl.report.opentech.fund
+handbook.opentech.fund
+old.opentech.fund
+social.opentech.fund
+www.opentech.fund
+www.we.opentech.fund
+we.opentech.fund
+apply.opentech.fund
+guide.opentech.fund
+status.opentech.fund
+sandbox.opentech.fund
+public.opentech.fund
+report.opentech.fund
+meet.opentech.fund
+sandbox-apply.opentech.fund

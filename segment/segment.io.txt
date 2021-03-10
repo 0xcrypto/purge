@@ -1,0 +1,4 @@
+cdn.segment.io
+registry.segment.io
+www.segment.io
+api.segment.io

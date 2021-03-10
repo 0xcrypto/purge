@@ -1,0 +1,10 @@
+www.cloud.hitmanpro.nl
+www.hitmanpro.nl
+activate.hitmanpro.nl
+mail.hitmanpro.nl
+cloud.hitmanpro.nl
+autodiscover.hitmanpro.nl
+lyncdiscover.hitmanpro.nl
+resellers.hitmanpro.nl
+localhost.hitmanpro.nl
+ftp.hitmanpro.nl

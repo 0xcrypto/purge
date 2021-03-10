@@ -1,0 +1,10 @@
+meet.jit.si
+redshorts.jit.si
+sip.jit.si
+unistra.jit.si
+www.beta.meet.jit.si
+www.jit.si
+www.meet.jit.si
+xmpp.jit.si
+beta.meet.jit.si
+signal-api-beta.meet.jit.si

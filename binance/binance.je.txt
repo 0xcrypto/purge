@@ -1,0 +1,6 @@
+api.binance.je
+www.binance.je
+support.binance.je
+resource.binance.je
+pm-bounces.post.binance.je
+stream.binance.je

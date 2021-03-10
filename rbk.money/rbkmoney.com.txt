@@ -1,0 +1,10 @@
+api.rbkmoney.com
+dr.rbkmoney.com
+m.rbkmoney.com
+merchant.rbkmoney.com
+mon.rbkmoney.com
+www.api.rbkmoney.com
+www.merchant.rbkmoney.com
+www.rbkmoney.com
+www.okko.rbkmoney.com
+okko.rbkmoney.com

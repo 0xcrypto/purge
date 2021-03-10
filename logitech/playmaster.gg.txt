@@ -1,0 +1,3 @@
+assets.playmaster.gg
+np.playmaster.gg
+api.playmaster.gg

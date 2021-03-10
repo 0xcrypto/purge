@@ -1,0 +1,4 @@
+com.msbpay.com
+ns.rackspace.com.msbpay.com
+rackspace.com.msbpay.com
+www.msbpay.com

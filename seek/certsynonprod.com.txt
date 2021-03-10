@@ -1,0 +1,8 @@
+www.certsynonprod.com
+docs.certsynonprod.com
+candidate-ui-staging.certsynonprod.com
+docs-dev.certsynonprod.com
+auth.certsynonprod.com
+hirer.certsynonprod.com
+api-staging.certsynonprod.com
+admin-ui-staging.certsynonprod.com

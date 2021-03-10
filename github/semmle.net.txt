@@ -1,0 +1,17 @@
+assets.ghe.pentesting.semmle.net
+avatars.ghe.pentesting.semmle.net
+avayairs.ghe.pentesting.semmle.net
+codeload.ghe.pentesting.semmle.net
+ghe.pentesting.semmle.net
+gist.ghe.pentesting.semmle.net
+lgtm.pentesting.semmle.net
+media.ghe.pentesting.semmle.net
+pages.ghe.pentesting.semmle.net
+raw.ghe.pentesting.semmle.net
+registry.ghe.pentesting.semmle.net
+render.ghe.pentesting.semmle.net
+uploads.ghe.pentesting.semmle.net
+www.lgtm-staging.semmle.net
+lgtm-staging.semmle.net
+lgtm-com.pentesting.semmle.net
+www.semmle.net

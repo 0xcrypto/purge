@@ -1,0 +1,11 @@
+community.saturn.lu
+lithium.saturn.lu
+www.blog.saturn.lu
+test.saturn.lu
+cloud.saturn.lu
+www.saturn.lu
+www.cloud.saturn.lu
+dev.saturn.lu
+blog.saturn.lu
+staging.saturn.lu
+media.saturn.lu

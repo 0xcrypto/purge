@@ -1,0 +1,14 @@
+permissions.aetkasmart.de
+test-mein.aetkasmart.de
+www.zufriedenheit.aetkasmart.de
+ifa.aetkasmart.de
+login-dev.aetkasmart.de
+e2e1.permissions.aetkasmart.de
+ref-mein.aetkasmart.de
+www.aetkasmart.de
+login.aetkasmart.de
+e2e2-mein.aetkasmart.de
+e2e1-mein.aetkasmart.de
+mein.aetkasmart.de
+e2e2.permissions.aetkasmart.de
+zufriedenheit.aetkasmart.de

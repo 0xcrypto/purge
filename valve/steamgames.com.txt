@@ -1,0 +1,8 @@
+cpanel.steamgames.com
+forums.steamgames.com
+partner.staging.steamgames.com
+partner.steamgames.com
+store.steamgames.com
+partner-linux.steamgames.com
+developer.steamgames.com
+www.steamgames.com

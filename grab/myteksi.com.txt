@@ -1,0 +1,6 @@
+campaigns.myteksi.com
+newsletter.myteksi.com
+o1.newsletter.myteksi.com
+www.myteksi.com
+cashier.myteksi.com
+web.myteksi.com

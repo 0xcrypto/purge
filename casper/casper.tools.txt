@@ -1,0 +1,17 @@
+jupyter.casper.tools
+jupyterhub.casper.tools
+storefront-admin.casper.tools
+rts.casper.tools
+ops.casper.tools
+docs.casper.tools
+operator.casper.tools
+vcl.casper.tools
+redash.casper.tools
+capi.casper.tools
+sftp.casper.tools
+config.casper.tools
+storefront.casper.tools
+eeserv.casper.tools
+duo-sandbox.casper.tools
+storybook.casper.tools
+ipt.casper.tools

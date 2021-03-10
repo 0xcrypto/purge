@@ -1,0 +1,12 @@
+echo.gener8ads.com
+hostmaster.gener8ads.com
+www.gener8ads.com
+apollo.gener8ads.com
+voyager.gener8ads.com
+pioneer.gener8ads.com
+voyager-internal.gener8ads.com
+user.gener8ads.com
+iframes-internal.gener8ads.com
+pioneer-internal.gener8ads.com
+assets.gener8ads.com
+tabs.gener8ads.com

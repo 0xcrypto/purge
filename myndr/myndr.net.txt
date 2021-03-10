@@ -1,0 +1,13 @@
+www.myndr.net
+pub.myndr.net
+mqtt.myndr.net
+ns1.myndr.net
+ns2.myndr.net
+public2.myndr.net
+preparsed.myndr.net
+dns.myndr.net
+dashboard.myndr.net
+blocked.myndr.net
+permalink.myndr.net
+public.myndr.net
+meta.myndr.net

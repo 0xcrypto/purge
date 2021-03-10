@@ -1,0 +1,8 @@
+english.internetpillen.nl
+feeds.english.internetpillen.nl
+feeds.internetpillen.nl
+magazines.english.internetpillen.nl
+magazines.internetpillen.nl
+opendata.english.internetpillen.nl
+opendata.internetpillen.nl
+www.internetpillen.nl

@@ -1,0 +1,9 @@
+autodiscover.astaro.de
+download2.astaro.de
+download.astaro.de
+vpn.astaro.de
+ftp2.astaro.de
+ftp.astaro.de
+survey-emea.astaro.de
+www.astaro.de
+blog.astaro.de

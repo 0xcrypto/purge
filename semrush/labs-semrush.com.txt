@@ -1,0 +1,8 @@
+calendar.labs-semrush.com
+cohort-analysis.labs-semrush.com
+ppc.labs-semrush.com
+sempie.labs-semrush.com
+signa.labs-semrush.com
+trends.labs-semrush.com
+wordpress.labs-semrush.com
+www.ppc.labs-semrush.com

@@ -1,0 +1,5 @@
+images.nowait.com
+yelp.nowait.com
+www.yelp.nowait.com
+www.nowait.com
+info.nowait.com

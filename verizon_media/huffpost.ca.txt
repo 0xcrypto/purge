@@ -1,0 +1,6 @@
+www.huffpost.ca
+quebec.huffpost.ca
+cms.huffpost.ca
+contributor.huffpost.ca
+contributor.quebec.huffpost.ca
+cms.quebec.huffpost.ca

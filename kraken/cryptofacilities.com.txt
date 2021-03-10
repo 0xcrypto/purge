@@ -1,0 +1,13 @@
+beta.cryptofacilities.com
+dev-futures.cryptofacilities.com
+dev.cryptofacilities.com
+old.cryptofacilities.com
+uat.cryptofacilities.com
+www.beta.cryptofacilities.com
+www.cryptofacilities.com
+www.old.cryptofacilities.com
+www.status.cryptofacilities.com
+www.uat.cryptofacilities.com
+support.cryptofacilities.com
+www.support.cryptofacilities.com
+status.cryptofacilities.com

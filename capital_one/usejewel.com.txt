@@ -1,0 +1,7 @@
+admin.usejewel.com
+assets.usejewel.com
+content.usejewel.com
+reviews.usejewel.com
+www.usejewel.com
+blog.usejewel.com
+jewel-vpn.usejewel.com

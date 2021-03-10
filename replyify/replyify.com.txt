@@ -1,0 +1,13 @@
+aws-api.replyify.com
+aws.replyify.com
+staging.replyify.com
+api.replyify.com
+get.replyify.com
+newblog.replyify.com
+app.replyify.com
+blog.replyify.com
+help.replyify.com
+staging.track.replyify.com
+track.replyify.com
+staging-api.replyify.com
+www.replyify.com

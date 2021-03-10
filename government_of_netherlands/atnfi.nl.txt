@@ -1,0 +1,9 @@
+english.atnfi.nl
+feeds.atnfi.nl
+feeds.english.atnfi.nl
+magazines.atnfi.nl
+magazines.english.atnfi.nl
+magazinesintern.atnfi.nl
+opendata.atnfi.nl
+opendata.english.atnfi.nl
+www.atnfi.nl

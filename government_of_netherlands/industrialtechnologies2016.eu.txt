@@ -1,0 +1,5 @@
+feeds.industrialtechnologies2016.eu
+magazines.industrialtechnologies2016.eu
+magazinesintern.industrialtechnologies2016.eu
+opendata.industrialtechnologies2016.eu
+www.industrialtechnologies2016.eu

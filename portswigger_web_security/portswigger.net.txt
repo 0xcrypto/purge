@@ -1,0 +1,17 @@
+hostmaster.portswigger.net
+surveys.portswigger.net
+www.perfdata.portswigger.net
+www.pro.portswigger.net
+www.support.portswigger.net
+www.surveys.portswigger.net
+burpcollaborator1.portswigger.net
+pro.portswigger.net
+releases.portswigger.net
+locking-rgthanwoasxdyb5nz2ajemahntfkwzsz.portswigger.net
+blog.portswigger.net
+forum.portswigger.net
+intranet.portswigger.net
+support.portswigger.net
+burpcollaborator2.portswigger.net
+www.portswigger.net
+perfdata.portswigger.net

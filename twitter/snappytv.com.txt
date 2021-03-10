@@ -1,0 +1,12 @@
+beta.snappytv.com
+blog.snappytv.com
+blog01.usw2.snappytv.com
+devel01.stage.usw2.snappytv.com
+mta01.aws.snappytv.com
+mta01.usw2.snappytv.com
+mta02.aws.snappytv.com
+mta02.usw2.snappytv.com
+rel.snappytv.com
+stage.snappytv.com
+static.origin.snappytv.com
+www.snappytv.com

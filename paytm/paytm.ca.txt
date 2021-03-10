@@ -1,0 +1,14 @@
+g.paytm.ca
+static.hero.paytm.ca
+www.blog.paytm.ca
+pay.paytm.ca
+stg.hero.paytm.ca
+config.hero.paytm.ca
+www.paytm.ca
+hero.paytm.ca
+care.paytm.ca
+prod.hero.paytm.ca
+m.paytm.ca
+blog.paytm.ca
+img.hero.paytm.ca
+business.paytm.ca

@@ -1,0 +1,8 @@
+dc-13f8d98de060.accengage.net
+etam-by.accengage.net
+etam-test-by.accengage.net
+jumia-by.accengage.net
+mobilecrm.accengage.net
+nextplz-by.accengage.net
+websdk.accengage.net
+www.accengage.net

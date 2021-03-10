@@ -1,0 +1,9 @@
+app.trycourier.com
+docs.trycourier.com
+mail.trycourier.com
+www.app.trycourier.com
+policies.trycourier.com
+updates.trycourier.com
+www.trycourier.com
+community.trycourier.com
+components.trycourier.com

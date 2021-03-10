@@ -1,0 +1,3 @@
+secure.mnp.nl
+www.mnp.nl
+mapserver.mnp.nl

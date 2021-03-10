@@ -1,0 +1,14 @@
+charts.gimletmedia.com
+membersstaging.gimletmedia.com
+staging.gimletmedia.com
+store.gimletmedia.com
+feeds.gimletmedia.com
+members.gimletmedia.com
+staff.gimletmedia.com
+creative.gimletmedia.com
+www.gimletmedia.com
+cdn.gimletmedia.com
+api.gimletmedia.com
+email.gimletmedia.com
+citrus.gimletmedia.com
+player.gimletmedia.com

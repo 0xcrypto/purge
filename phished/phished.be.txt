@@ -1,0 +1,15 @@
+mail.phished.be
+mta-sts.mail.phished.be
+privacy.phished.be
+landing.phished.be
+tracking.phished.be
+www.phished.be
+manage.phished.be
+sales.phished.be
+api.phished.be
+admin.phished.be
+web.phished.be
+backend.phished.be
+auth.phished.be
+app.phished.be
+devprivacy.phished.be

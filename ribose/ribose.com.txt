@@ -1,0 +1,16 @@
+my.ribose.com
+staging.ribose.com
+testing.ribose.com
+support.ribose.com
+staging-crimson.ribose.com
+crimson.ribose.com
+www.ribose.com
+test-open.ribose.com
+open.ribose.com
+www-b1eec65.ribose.com
+status.ribose.com
+assets-1-us-d1bd645.ribose.com
+assets-2-us-d1bd645.ribose.com
+assets-0-us-d1bd645.ribose.com
+assets-3-us-d1bd645.ribose.com
+test-www.ribose.com

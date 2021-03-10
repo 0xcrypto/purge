@@ -1,0 +1,12 @@
+blog.yourdelivery.de
+cdn.yourdelivery.de
+fbny.yourdelivery.de
+fbvoucher.yourdelivery.de
+ipa01.yourdelivery.de
+ipa02.yourdelivery.de
+mail.yourdelivery.de
+prx01.yourdelivery.de
+topup.yourdelivery.de
+vpnsec.yourdelivery.de
+www.vpnsec.yourdelivery.de
+www.yourdelivery.de

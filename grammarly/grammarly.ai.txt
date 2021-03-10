@@ -1,0 +1,10 @@
+220-server.grammarly.ai
+server.grammarly.ai
+www.grammarly.ai
+www.server.grammarly.ai
+ns1.grammarly.ai
+ns2.grammarly.ai
+compling-summer-school.grammarly.ai
+mail.grammarly.ai
+ftp.grammarly.ai
+ua-gec-dataset.grammarly.ai

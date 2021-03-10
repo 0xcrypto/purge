@@ -1,0 +1,14 @@
+eu.worklytics.co
+staging.worklytics.co
+app.worklytics.co
+in.worklytics.co
+o1.send.worklytics.co
+www.worklytics.co
+app-eu.worklytics.co
+calendar.worklytics.co
+intl.worklytics.co
+drive.worklytics.co
+mail.worklytics.co
+mrkt-wp.worklytics.co
+docs.worklytics.co
+groups.worklytics.co

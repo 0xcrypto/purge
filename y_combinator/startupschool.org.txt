@@ -1,0 +1,7 @@
+chat-stage.startupschool.org
+chat-test.startupschool.org
+chat.startupschool.org
+conference.startupschool.org
+staging.startupschool.org
+www.staging.startupschool.org
+www.startupschool.org

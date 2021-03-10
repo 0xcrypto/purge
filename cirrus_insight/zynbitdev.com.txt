@@ -1,0 +1,12 @@
+ews2013-app01.ews2013.zynbitdev.com
+www.zynbitdev.com
+socket-test.zynbitdev.com
+dashboard-test.zynbitdev.com
+mail.ews2013.zynbitdev.com
+app-staging.zynbitdev.com
+crmapi-test.zynbitdev.com
+ews2013.zynbitdev.com
+owa-test.zynbitdev.com
+ews2013adfs.zynbitdev.com
+api-test.zynbitdev.com
+app.zynbitdev.com

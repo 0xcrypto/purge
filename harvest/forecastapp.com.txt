@@ -1,0 +1,5 @@
+www.forecastapp.com
+api.forecastapp.com
+support.forecastapp.com
+email.mailing.forecastapp.com
+email.forecastapp.com

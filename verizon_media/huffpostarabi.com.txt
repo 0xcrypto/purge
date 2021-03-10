@@ -1,0 +1,6 @@
+origin-qa.www.huffpostarabi.com
+www.huffpostarabi.com
+stage.guce.huffpostarabi.com
+m.huffpostarabi.com
+guce.huffpostarabi.com
+trunk.guce.huffpostarabi.com

@@ -1,0 +1,3 @@
+link.koho.app
+sms.koho.app
+link-staging.koho.app

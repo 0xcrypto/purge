@@ -1,0 +1,12 @@
+bugs.slimdevices.com
+debian.slimdevices.com
+eng.slimdevices.com
+lb.slimdevices.com
+web.slimdevices.com
+forums.slimdevices.com
+www.slimdevices.com
+wiki.slimdevices.com
+svn.slimdevices.com
+downloads.slimdevices.com
+cdn-origin.slimdevices.com
+lists.slimdevices.com

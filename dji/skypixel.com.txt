@@ -1,0 +1,11 @@
+avatar.skypixel.com
+cdn-hz.skypixel.com
+cdn-usa.skypixel.com
+cnblog.skypixel.com
+sp-webfront.skypixel.com
+usa-test-sp.skypixel.com
+www.avatar.skypixel.com
+www.music.skypixel.com
+link.skypixel.com
+www.skypixel.com
+music.skypixel.com

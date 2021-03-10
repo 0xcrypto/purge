@@ -1,0 +1,16 @@
+autodiscover.westernunionbank.com
+elearning.westernunionbank.com
+learning.westernunionbank.com
+prepaid.westernunionbank.com
+www.ebanking.westernunionbank.com
+ebanking.westernunionbank.com
+smtp2.westernunionbank.com
+boaauth.westernunionbank.com
+finastraprod.westernunionbank.com
+partners.westernunionbank.com
+www.boaauth.westernunionbank.com
+new.westernunionbank.com
+finastratest.westernunionbank.com
+smtp1.westernunionbank.com
+fla.westernunionbank.com
+www.westernunionbank.com

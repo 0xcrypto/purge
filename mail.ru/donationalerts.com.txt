@@ -1,0 +1,8 @@
+centrifugo.donationalerts.com
+images-awards.donationalerts.com
+static.donationalerts.com
+awards.donationalerts.com
+www.donationalerts.com
+api-awards.donationalerts.com
+chat.donationalerts.com
+auth.donationalerts.com

@@ -1,0 +1,15 @@
+api.legalrobot.com
+app.legalrobot.com
+dev.legalrobot.com
+g.legalrobot.com
+k8s-resources.legalrobot.com
+nginx-rewrite.legalrobot.com
+test.legalrobot.com
+www.app.legalrobot.com
+www.git.legalrobot.com
+www.legalrobot.com
+mail.legalrobot.com
+registry.legalrobot.com
+bw.legalrobot.com
+dl.legalrobot.com
+git.legalrobot.com

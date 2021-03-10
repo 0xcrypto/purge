@@ -1,0 +1,13 @@
+cb.paytmmall.com
+dev1.paytmmall.com
+email.paytmmall.com
+middleware.paytmmall.com
+seller.paytmmall.com
+vibe.paytmmall.com
+ws.paytmmall.com
+www.paytmmall.com
+gobig.paytmmall.com
+branding.paytmmall.com
+blog.paytmmall.com
+www.blog.paytmmall.com
+campusicon.paytmmall.com

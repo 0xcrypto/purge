@@ -1,0 +1,11 @@
+lyncdiscover.rockstarnorth.com
+dev.rockstarnorth.com
+discoverreceiver.rockstarnorth.com
+glengoyne.rockstarnorth.com
+mail.rockstarnorth.com
+owa.rockstarnorth.com
+www.rockstarnorth.com
+lyncdiscover.rockstarnorth.com
+autodiscover.rockstarnorth.com
+stage.rockstarnorth.com
+sip.rockstarnorth.com

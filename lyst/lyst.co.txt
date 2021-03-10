@@ -1,0 +1,8 @@
+chef-master.lyst.co
+drome-1.lyst.co
+mother.lyst.co
+sentry.lyst.co
+www.lyst.co
+0.uk.lyst.co
+office.lyst.co
+jenkins-master.lyst.co

@@ -1,0 +1,11 @@
+git.kartpay.com
+linode.kartpay.com
+sg.kartpay.com
+panel.kartpay.com
+test.kartpay.com
+live.kartpay.com
+developers.kartpay.com
+vpn.kartpay.com
+merchant.kartpay.com
+www.kartpay.com
+affiliate.kartpay.com

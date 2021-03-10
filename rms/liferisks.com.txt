@@ -1,0 +1,7 @@
+mail.liferisks.com
+owa.liferisks.com
+owa.qa.liferisks.com
+qa.liferisks.com
+wiki.liferisks.com
+www.liferisks.com
+vpn.liferisks.com

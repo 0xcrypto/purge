@@ -1,0 +1,9 @@
+jive.mysqueezebox.com
+nat.use.mysqueezebox.com
+dns.usw.mysqueezebox.com
+dns.use.mysqueezebox.com
+dns.euw.mysqueezebox.com
+www.mysqueezebox.com
+nat.euw.mysqueezebox.com
+use.mysqueezebox.com
+euw.mysqueezebox.com

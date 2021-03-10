@@ -1,0 +1,3 @@
+smtp.domeinen.org
+webmail.domeinen.org
+telewerken.domeinen.org

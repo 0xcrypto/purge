@@ -1,0 +1,4 @@
+akamai.tags.tiqcdn.com
+pulsar.tiqcdn.com
+tags-eu.tiqcdn.com
+tags.tiqcdn.com

@@ -1,0 +1,15 @@
+magazines.awti.nl
+magazines.english.awti.nl
+magazinesintern.awti.nl
+magazinesintern.english.awti.nl
+smtp1.awti.nl
+vpn.awti.nl
+feeds.english.awti.nl
+feeds.awti.nl
+english.awti.nl
+a-www.awti.nl
+www.awti.nl
+opendata.awti.nl
+smtp.awti.nl
+pushmail.awti.nl
+opendata.english.awti.nl

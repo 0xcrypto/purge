@@ -1,0 +1,6 @@
+a-www.thegfce.com
+feeds.thegfce.com
+magazines.thegfce.com
+magazinesintern.thegfce.com
+opendata.thegfce.com
+www.thegfce.com

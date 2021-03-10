@@ -1,0 +1,13 @@
+dm16.byteoversea.com
+i.byteoversea.com
+log.byteoversea.com
+log16.byteoversea.com
+p16-tcscdn.byteoversea.com
+tos-awsin16-up.byteoversea.com
+v16-tcscdn.byteoversea.com
+vas-alisg16.byteoversea.com
+vas-alisg19.byteoversea.com
+vas-maliva16.byteoversea.com
+vas-maliva19.byteoversea.com
+developer-sg.byteoversea.com
+libra.byteoversea.com

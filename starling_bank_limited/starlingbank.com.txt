@@ -1,0 +1,14 @@
+community.starlingbank.com
+developer.starlingbank.com
+openbanking.starlingbank.com
+settleup.starlingbank.com
+ssg.starlingbank.com
+tooling.starlingbank.com
+www.community.starlingbank.com
+www.starlingbank.com
+openintegrations.starlingbank.com
+cics.starlingbank.com
+help.starlingbank.com
+help-sandbox.starlingbank.com
+token-api-sandbox.starlingbank.com
+updates.starlingbank.com

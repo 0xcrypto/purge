@@ -1,0 +1,12 @@
+cn.pubgesports.com
+watch.pubgesports.com
+sea.pubgesports.com
+www.pubgesports.com
+americas.pubgesports.com
+npl-static-assets.pubgesports.com
+latam.pubgesports.com
+na.pubgesports.com
+event.pubgesports.com
+npl.pubgesports.com
+stats.pubgesports.com
+pickem.pubgesports.com

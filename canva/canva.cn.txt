@@ -1,0 +1,5 @@
+afe.canva.cn
+static.canva.cn
+tracing.canva.cn
+status.canva.cn
+www.canva.cn

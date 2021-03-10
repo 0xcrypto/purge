@@ -1,0 +1,2 @@
+usercontent.irccloud-cdn.com
+static.irccloud-cdn.com

@@ -1,0 +1,9 @@
+cloud.h2os.com
+download.h2os.com
+otafsc.h2os.com
+otafsg.h2os.com
+otafsg1.h2os.com
+www.h2os.com
+downloadtest.h2os.com
+formal-wallet.h2os.com
+informal-wallet.h2os.com

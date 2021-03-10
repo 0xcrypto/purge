@@ -1,0 +1,5 @@
+nieuws.mastercard.nl
+stage.mastercard.nl
+dns2.mastercard.nl
+mtf.mastercard.nl
+www.mastercard.nl

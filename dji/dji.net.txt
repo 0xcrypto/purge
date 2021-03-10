@@ -1,0 +1,9 @@
+click.dji.net
+cn-videos.dji.net
+eat.dji.net
+vip-aasky.dji.net
+www.dji.net
+www.store.dji.net
+m.dji.net
+store.dji.net
+bbs.dji.net

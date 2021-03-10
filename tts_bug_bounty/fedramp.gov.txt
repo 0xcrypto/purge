@@ -1,0 +1,5 @@
+demo.fedramp.gov
+www.fedramp.gov
+marketplace.fedramp.gov
+mta-sts.fedramp.gov
+tailored.fedramp.gov

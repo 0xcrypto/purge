@@ -1,0 +1,5 @@
+origin.motorcraft.com
+www.origin.motorcraft.com
+wwwqa.motorcraft.com
+mackit.motorcraft.com
+www.motorcraft.com

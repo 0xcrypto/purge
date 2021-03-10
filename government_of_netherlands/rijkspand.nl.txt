@@ -1,0 +1,14 @@
+gdinatmz03.tm-o.rijkspand.nl
+gdinatmz04.tm-o.rijkspand.nl
+gdinatmz02g2.tm.rijkspand.nl
+gdinatmn01.tm.rijkspand.nl
+gdinatmn02.tm.rijkspand.nl
+gdinatmz01.tm.rijkspand.nl
+gdinatmn01g2.tm.rijkspand.nl
+gdinatmz02.tm.rijkspand.nl
+wifiad-dc03.wifiad.rijkspand.nl
+gdinatmz01g2.tm.rijkspand.nl
+gdinatmn02g2.tm.rijkspand.nl
+wifiad-dc04.wifiad.rijkspand.nl
+mb-rijkspascms.tm.rijkspand.nl
+wifi.tm-o.rijkspand.nl

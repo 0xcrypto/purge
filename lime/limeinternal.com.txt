@@ -1,0 +1,10 @@
+data-entrypoint-api.limeinternal.com
+orchard.limeinternal.com
+tableau.limeinternal.com
+ml-staging.limeinternal.com
+airflow.limeinternal.com
+data-entrypoint-api-staging.limeinternal.com
+golden-airflow.limeinternal.com
+tab.limeinternal.com
+common-airflow.limeinternal.com
+data.limeinternal.com

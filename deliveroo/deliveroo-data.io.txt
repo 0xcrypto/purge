@@ -1,0 +1,4 @@
+api.canoe-production-k8s.deliveroo-data.io
+api.internal.canoe-production-k8s.deliveroo-data.io
+bastion.canoe-production-k8s.deliveroo-data.io
+weather.deliveroo-data.io

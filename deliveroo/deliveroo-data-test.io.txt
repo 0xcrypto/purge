@@ -1,0 +1,9 @@
+api.canoe-staging-k8s.deliveroo-data-test.io
+api.internal.canoe-staging-k8s.deliveroo-data-test.io
+kibana-canoe-staging.deliveroo-data-test.io
+integration.deliveroo-data-test.io
+order-status.deliveroo-data-test.io
+restaurant-data-api.deliveroo-data-test.io
+kafka-manager.deliveroo-data-test.io
+traffic.deliveroo-data-test.io
+jenkins-canoe-staging.deliveroo-data-test.io

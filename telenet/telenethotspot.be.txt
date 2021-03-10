@@ -1,0 +1,3 @@
+portal.telenethotspot.be
+extranet.telenethotspot.be
+www.telenethotspot.be

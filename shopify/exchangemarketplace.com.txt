@@ -1,0 +1,4 @@
+blog.exchangemarketplace.com
+email.exchangemarketplace.com
+www.exchangemarketplace.com
+help.exchangemarketplace.com

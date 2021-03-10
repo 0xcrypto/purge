@@ -1,0 +1,9 @@
+blog.global.shop
+br.global.shop
+cpanel.global.shop
+mail.global.shop
+webdisk.global.shop
+webmail.global.shop
+www.blog.global.shop
+www.br.global.shop
+www.global.shop

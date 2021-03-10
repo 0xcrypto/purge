@@ -1,0 +1,16 @@
+devquote.achmea.com.au
+mail2.achmea.com.au
+quote.achmea.com.au
+uatquote.achmea.com.au
+vpn.achmea.com.au
+lyncdiscover.achmea.com.au
+mail.achmea.com.au
+dialin.achmea.com.au
+meet.achmea.com.au
+redigitalclient.corp.achmea.com.au
+skypeweb.achmea.com.au
+staging.achmea.com.au
+sso.achmea.com.au
+www.achmea.com.au
+autodiscover.achmea.com.au
+owa.achmea.com.au

@@ -1,0 +1,13 @@
+staging.every.org
+www.every.org
+static.every.org
+forum.every.org
+community.every.org
+blog.every.org
+webflow.every.org
+staging-next.every.org
+feedback.every.org
+next.every.org
+login.staging.every.org
+support.every.org
+login.every.org

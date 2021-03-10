@@ -1,0 +1,16 @@
+lyncdiscover.starbucks.cn
+autodiscover.starbucks.cn
+cn.xbz.starbucks.cn
+ns1.starbucks.cn
+ns2.starbucks.cn
+xbz.starbucks.cn
+dialin.starbucks.cn
+sip.starbucks.cn
+shaskypeedge01.starbucks.cn
+mobility4.starbucks.cn
+shaskypepool01.starbucks.cn
+meet.starbucks.cn
+shaskypeconf01.starbucks.cn
+shaskypeweb01.starbucks.cn
+www.starbucks.cn
+lyncdiscover.starbucks.cn

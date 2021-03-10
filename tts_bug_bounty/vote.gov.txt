@@ -1,0 +1,5 @@
+_dmarc.vote.gov
+beta.vote.gov
+new.vote.gov
+www.vote.gov
+staging.vote.gov

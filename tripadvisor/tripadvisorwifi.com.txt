@@ -1,0 +1,8 @@
+learn.tripadvisorwifi.com
+team.tripadvisorwifi.com
+api.tripadvisorwifi.com
+help.tripadvisorwifi.com
+api.test.tripadvisorwifi.com
+internal-api.test.tripadvisorwifi.com
+www.tripadvisorwifi.com
+docs.tripadvisorwifi.com

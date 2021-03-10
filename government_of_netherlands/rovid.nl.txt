@@ -1,0 +1,5 @@
+mail.rovid.nl
+www.rovid.nl
+a-www.rovid.nl
+intern.rovid.nl
+a-intern.rovid.nl

@@ -1,0 +1,11 @@
+english.cfto.nl
+feeds.english.cfto.nl
+magazines.cfto.nl
+magazines.english.cfto.nl
+magazinesintern.cfto.nl
+opendata.english.cfto.nl
+feeds.cfto.nl
+opendata.cfto.nl
+www.cfto.nl
+oud.cfto.nl
+a-www.cfto.nl

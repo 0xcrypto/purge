@@ -1,0 +1,5 @@
+www.paypal.me
+s.paypal.me
+vote.paypal.me
+donate.paypal.me
+localhost.paypal.me

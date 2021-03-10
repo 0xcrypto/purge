@@ -1,0 +1,11 @@
+loadtest.api.uphabit.com
+www.test.uphabit.com
+development.api.uphabit.com
+www.uphabit.com
+test.uphabit.com
+web.uphabit.com
+sms.uphabit.com
+staging.api.uphabit.com
+links.uphabit.com
+api.uphabit.com
+app.uphabit.com

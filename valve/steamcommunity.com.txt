@@ -1,0 +1,7 @@
+api.steamcommunity.com
+staging.steamcommunity.com
+cdn.steamcommunity.com
+www.steamcommunity.com
+origin.steamcommunity.com
+media.steamcommunity.com
+beta.steamcommunity.com

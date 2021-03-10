@@ -1,0 +1,3 @@
+www.openmage.org
+migrate.openmage.org
+demo.openmage.org

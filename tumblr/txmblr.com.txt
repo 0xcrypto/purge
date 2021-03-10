@@ -1,0 +1,5 @@
+assets.txmblr.com
+safe.txmblr.com
+secure.assets.txmblr.com
+tm.txmblr.com
+y.txmblr.com

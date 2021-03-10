@@ -1,0 +1,6 @@
+www-test.c-point.be
+www.c-point.be
+mail.c-point.be
+autodiscover.c-point.be
+www-accpt.c-point.be
+owa.c-point.be

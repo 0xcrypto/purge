@@ -1,0 +1,7 @@
+docs.tealium.net
+dv-eu.tealium.net
+dveu.tealium.net
+integrations.tealium.net
+monitor.tealium.net
+unifi.tealium.net
+solutions.tealium.net

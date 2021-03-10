@@ -1,0 +1,4 @@
+offers.united.com.bugpoc.com
+api.bugpoc.com
+poc-docker-images.bugpoc.com
+www.bugpoc.com

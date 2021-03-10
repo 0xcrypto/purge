@@ -1,0 +1,7 @@
+mail.teambeyond.net
+www.teambeyond.net
+www.mail.teambeyond.net
+play.teambeyond.net
+api.teambeyond.net
+admin-api.teambeyond.net
+apanel.teambeyond.net

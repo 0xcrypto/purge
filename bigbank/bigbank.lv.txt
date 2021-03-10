@@ -1,0 +1,16 @@
+secure.bigbank.lv
+secure.staging.bigbank.lv
+www.bigbank.lv
+localhost.bigbank.lv
+broker.test.bigbank.lv
+broker.bigbank.lv
+static.bigbank.lv
+partner.bigbank.lv
+partneriem.bigbank.lv
+apvieno.bigbank.lv
+email.bigbank.lv
+krediti.bigbank.lv
+loans.bigbank.lv
+lv.bigbank.lv
+biznesam.bigbank.lv
+okd.bigbank.lv

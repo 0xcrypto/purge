@@ -1,0 +1,10 @@
+pantry.butlerfortrello.com
+redis-test.butlerfortrello.com
+redis.butlerfortrello.com
+staging.api.butlerfortrello.com
+bot.butlerfortrello.com
+app.butlerfortrello.com
+lens.butlerfortrello.com
+api.butlerfortrello.com
+www.butlerfortrello.com
+help.butlerfortrello.com

@@ -1,0 +1,7 @@
+blog.teamfortress.com
+beta.teamfortress.com
+smtp.wiki.teamfortress.com
+wiki.teamfortress.com
+admin.wiki.teamfortress.com
+www.teamfortress.com
+store.teamfortress.com

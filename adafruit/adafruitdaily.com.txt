@@ -1,0 +1,4 @@
+staging.adafruitdaily.com
+www.adafruitdaily.com
+cdn-daily-blog.adafruitdaily.com
+makecode.adafruitdaily.com

@@ -1,0 +1,8 @@
+api.faa.st
+web3.faa.st
+www.faa.st
+www.web3.faa.st
+docs.faa.st
+slack.faa.st
+login.faa.st
+status.faa.st

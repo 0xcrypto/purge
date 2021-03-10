@@ -1,0 +1,13 @@
+a-www.startstuderen.nl
+cms.startstuderen.nl
+english.startstuderen.nl
+feeds.english.startstuderen.nl
+feeds.startstuderen.nl
+magazines.english.startstuderen.nl
+magazines.startstuderen.nl
+magazinesintern.startstuderen.nl
+mail.mijnstudieplan.startstuderen.nl
+mijnstudieplan.startstuderen.nl
+opendata.english.startstuderen.nl
+opendata.startstuderen.nl
+www.startstuderen.nl

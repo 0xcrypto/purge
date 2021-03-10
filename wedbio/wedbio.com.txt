@@ -1,0 +1,6 @@
+webmail.wedbio.com
+cpanel.wedbio.com
+mail.wedbio.com
+cpcontacts.wedbio.com
+cpcalendars.wedbio.com
+webdisk.wedbio.com

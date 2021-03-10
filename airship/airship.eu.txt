@@ -1,0 +1,7 @@
+www.airship.eu
+www.captain.airship.eu
+analyze.airship.eu
+captain.airship.eu
+go-admin.airship.eu
+go.airship.eu
+status.airship.eu

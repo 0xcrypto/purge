@@ -1,0 +1,11 @@
+webmail.wordpressfoundation.org
+whm.wordpressfoundation.org
+autoconfig.wordpressfoundation.org
+cpanel.wordpressfoundation.org
+cpcontacts.wordpressfoundation.org
+www.wordpressfoundation.org
+autodiscover.wordpressfoundation.org
+ftp.wordpressfoundation.org
+webdisk.wordpressfoundation.org
+mail.wordpressfoundation.org
+cpcalendars.wordpressfoundation.org
